@@ -1,4 +1,8 @@
 samp
 good bye
 R2 release
+<<<<<<< HEAD
 R4 release
+=======
+R3 releases
+>>>>>>> b870db555329f54c7c34666cad73055b9d60461d
